@@ -1,5 +1,7 @@
 Amazon Linux AMI 2015.09
-
+# Presequities
+-  t2.medium (Variable ECUs, 2 vCPUs, 2.3 GHz, Intel Broadwell E5-2686v4, 4 GiB memory, EBS only)
+-  java8 ( For Installation Of Plugins)
 Elasticsearch 1.7.2
 ===================
 
